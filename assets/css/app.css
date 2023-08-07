@@ -220,6 +220,13 @@ section {
         display: block;
     }
 }
+.navlogo{
+    height: 20px;
+    width: 30px;
+    padding:0%;
+    margin-bottom: 5%;
+    
+}
 
 /* Hero */
 #hero {
@@ -434,4 +441,10 @@ footer .social-icons a {
 
 footer .social-icons a:not(:last-child) {
     margin-right: 24px;
+}
+.logofotter{
+    height: 80px;
+    width: 120px;
+    margin-left: 10%;
+    padding: 0%;
 }
